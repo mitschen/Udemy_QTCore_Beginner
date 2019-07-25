@@ -1,0 +1,5 @@
+#ignore build artifacts
+build*
+
+#any swapping/ temp files
+*.swp
